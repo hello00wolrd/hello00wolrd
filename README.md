@@ -14,5 +14,5 @@ Just record the learning process
 student 
 学生
 
-i'm noob
+i'm a rookie
 菜鸟一个
